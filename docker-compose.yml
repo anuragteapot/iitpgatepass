@@ -1,0 +1,41 @@
+version: '3'
+services:
+  client:
+    container_name: client
+    image: client
+    restart: always
+    build:
+      context: .
+      dockerfile: ./Docker/CLIENT/Dockerfile
+    links:
+      - server
+
+  server:
+    container_name: server
+    image: server
+    restart: always
+    build:
+      context: .
+      dockerfile: ./Docker/SERVER/Dockerfile
+    ports:
+      - '${PORT}:${PORT}'
+    links:
+      - mongo
+
+  mongo:
+    container_name: mongo
+    image: mongo
+    restart: always
+    env_file: .env
+    ports:
+      - '${MONGO_PORT}:${MONGO_PORT}'
+    environment:
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD}
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME}
+      MONGO_NON_ROOT_USERNAME: ${MONGO_NON_ROOT_USERNAME}
+      MONGO_NON_ROOT_PASSWORD: ${MONGO_NON_ROOT_PASSWORD}
+      MONGO_INITDB_DATABASE: ${MONGO_INITDB_DATABASE}
+    volumes:
+      - ./scripts/mongo/mongo-user-entrypoint.sh:/docker-entrypoint-initdb.d/mongo-user-entrypoint.sh
+      - ./mongodb/data:/data/db
+      - ./mongodb/mongodb_config:/data/configdb

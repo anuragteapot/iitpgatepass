@@ -1,0 +1,475 @@
+[15/04/2020 02:52:34]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[15/04/2020 02:52:34]: Loaded route: user
+[15/04/2020 02:52:34]: Loaded route: auth
+[15/04/2020 02:52:34]: Loaded route: service
+[15/04/2020 02:52:34]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[15/04/2020 02:52:34]: App listen on port 3344
+[15/04/2020 02:53:49]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[15/04/2020 02:53:49]: Loaded route: user
+[15/04/2020 02:53:49]: Loaded route: auth
+[15/04/2020 02:53:49]: Loaded route: service
+[15/04/2020 02:54:17]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[15/04/2020 02:54:17]: App listen on port 3344
+[15/04/2020 02:55:14]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[15/04/2020 02:55:14]: Loaded route: user
+[15/04/2020 02:55:14]: Loaded route: auth
+[15/04/2020 02:55:14]: Loaded route: service
+[15/04/2020 02:55:14]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[15/04/2020 02:55:14]: App listen on port 3344
+[15/04/2020 02:56:00]: Message sent.
+[15/04/2020 02:57:16]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[15/04/2020 02:57:16]: Loaded route: user
+[15/04/2020 02:57:16]: Loaded route: auth
+[15/04/2020 02:57:16]: Loaded route: service
+[15/04/2020 02:57:23]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[15/04/2020 02:57:23]: App listen on port 3344
+[15/04/2020 02:58:32]: Message sent.
+[15/04/2020 03:41:55]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 03:49:45]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:01:45]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:24:40]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:24:42]: Error on logout. Error ..:: [jwt malformed] ::..
+[15/04/2020 04:24:43]: Error on logout. Error ..:: [jwt malformed] ::..
+[15/04/2020 04:25:35]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:25:37]: Error on logout. Error ..:: [jwt malformed] ::..
+[15/04/2020 04:26:42]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:26:49]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:26:52]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:27:05]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:27:08]: Error on logout. Error ..:: [jwt malformed] ::..
+[15/04/2020 04:27:11]: Error on logout. Error ..:: [jwt malformed] ::..
+[15/04/2020 04:27:12]: Error on logout. Error ..:: [jwt malformed] ::..
+[15/04/2020 04:27:13]: Error on logout. Error ..:: [jwt malformed] ::..
+[15/04/2020 04:27:13]: Error on logout. Error ..:: [jwt malformed] ::..
+[15/04/2020 04:27:14]: Error on logout. Error ..:: [jwt malformed] ::..
+[15/04/2020 04:28:07]: Error on logout. Error ..:: [jwt malformed] ::..
+[15/04/2020 04:28:26]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:28:29]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:29:14]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:29:15]: Error on logout. Error ..:: [jwt malformed] ::..
+[15/04/2020 04:29:18]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:29:20]: Error on logout. Error ..:: [jwt malformed] ::..
+[15/04/2020 04:29:22]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:29:24]: Error on logout. Error ..:: [jwt malformed] ::..
+[15/04/2020 04:29:25]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:30:55]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:31:02]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:31:05]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:35:04]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:35:29]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:36:42]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:36:56]: Error on logout. Error ..:: [jwt malformed] ::..
+[15/04/2020 04:36:58]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 04:41:28]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 12:39:17]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[15/04/2020 12:39:19]: Loaded route: user
+[15/04/2020 12:39:19]: Loaded route: auth
+[15/04/2020 12:39:19]: Loaded route: service
+[15/04/2020 12:39:19]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[15/04/2020 12:39:19]: App listen on port 3344
+[15/04/2020 12:40:06]: Logged user [anurag.cs16@iitp.ac.in]
+[15/04/2020 15:24:52]: Error on createPass [anurag.cs16@iitp.ac.in]. Error: ..:: PassData validation failed: from: Path `from` is required., trolley_no: Path `trolley_no` is required., room: Path `room` is required., to: Path `to` is required., title: Path `title` is required. ::..
+[15/04/2020 15:25:03]: Error on createPass [anurag.cs16@iitp.ac.in]. Error: ..:: PassData validation failed: from: Path `from` is required., trolley_no: Path `trolley_no` is required., room: Path `room` is required., to: Path `to` is required., title: Path `title` is required. ::..
+[15/04/2020 15:25:15]: Error on createPass [anurag.cs16@iitp.ac.in]. Error: ..:: PassData validation failed: from: Path `from` is required., trolley_no: Path `trolley_no` is required., room: Path `room` is required., to: Path `to` is required., title: Path `title` is required. ::..
+[15/04/2020 15:27:09]: Error on createPass [anurag.cs16@iitp.ac.in]. Error: ..:: PassData validation failed: from: Path `from` is required., trolley_no: Path `trolley_no` is required., room: Path `room` is required., to: Path `to` is required., title: Path `title` is required. ::..
+[15/04/2020 15:28:04]: Error on createPass [anurag.cs16@iitp.ac.in]. Error: ..:: PassData validation failed: from: Path `from` is required., trolley_no: Path `trolley_no` is required., room: Path `room` is required., to: Path `to` is required., title: Path `title` is required. ::..
+[15/04/2020 15:31:57]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[15/04/2020 15:31:57]: Loaded route: user
+[15/04/2020 15:31:57]: Loaded route: auth
+[15/04/2020 15:31:57]: Loaded route: service
+[15/04/2020 15:31:57]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[15/04/2020 15:31:57]: App listen on port 3344
+[15/04/2020 18:48:52]: Message sent.
+[15/04/2020 18:49:25]: Logged user [anuragvns1111@gmail.com]
+[15/04/2020 18:49:25]: Error [JsonWebTokenError: jwt malformed]
+[15/04/2020 18:53:15]: Logged user [anuragvns1111@gmail.com]
+[15/04/2020 18:53:16]: Error [JsonWebTokenError: jwt malformed]
+[16/04/2020 20:00:54]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[16/04/2020 20:00:55]: Loaded route: user
+[16/04/2020 20:00:55]: Loaded route: auth
+[16/04/2020 20:00:55]: Loaded route: service
+[16/04/2020 20:00:55]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[16/04/2020 20:00:55]: App listen on port 3344
+[16/04/2020 20:01:09]: Error on login [Not authorized]
+[16/04/2020 20:01:23]: Error on login [Invalid credentials]
+[16/04/2020 20:01:24]: Error on login [Invalid credentials]
+[16/04/2020 20:02:54]: Error on login [Invalid credentials]
+[16/04/2020 20:03:05]: Error on login [Not authorized]
+[16/04/2020 20:03:06]: Error on login [Invalid credentials]
+[16/04/2020 20:03:39]: Logged user [anurag.cs16@iitp.ac.in]
+[16/04/2020 20:03:39]: Error [JsonWebTokenError: jwt malformed]
+[16/04/2020 20:03:58]: Logged user [anurag.cs16@iitp.ac.in]
+[16/04/2020 20:04:11]: Error on createPass [anurag.cs16@iitp.ac.in]. Error: ..:: PassData validation failed: from: Path `from` is required., trolley_no: Path `trolley_no` is required., room: Path `room` is required., to: Path `to` is required., title: Path `title` is required. ::..
+[16/04/2020 20:04:24]: Error on createPass [anurag.cs16@iitp.ac.in]. Error: ..:: PassData validation failed: from: Path `from` is required., trolley_no: Path `trolley_no` is required., room: Path `room` is required., to: Path `to` is required., title: Path `title` is required. ::..
+[16/04/2020 22:39:01]: Error on update user acl [anurag.cs16@iitp.ac.in]. Error: ..:: Failed to parse: { find: "users", filter: { acl: { $in: [ "$admin" ] } }, projection: {}, limit: "10", returnKey: false, showRecordId: false, lsid: { id: UUID("55c0ffad-968f-406e-9c7f-fcd7d1056842") }, $db: "app_db" }. 'limit' field must be numeric. ::..
+[16/04/2020 22:40:49]: Error on update user acl [anurag.cs16@iitp.ac.in]. Error: ..:: Failed to parse: { find: "users", filter: { acl: { $in: [ "$admin" ] } }, projection: {}, limit: "10", returnKey: false, showRecordId: false, lsid: { id: UUID("55c0ffad-968f-406e-9c7f-fcd7d1056842") }, $db: "app_db" }. 'limit' field must be numeric. ::..
+[16/04/2020 22:40:57]: Error on update user acl [anurag.cs16@iitp.ac.in]. Error: ..:: Failed to parse: { find: "users", filter: { acl: { $in: [ "$admin" ] } }, projection: {}, limit: "10", returnKey: false, showRecordId: false, lsid: { id: UUID("55c0ffad-968f-406e-9c7f-fcd7d1056842") }, $db: "app_db" }. 'limit' field must be numeric. ::..
+[16/04/2020 22:41:35]: Error on update user acl [anurag.cs16@iitp.ac.in]. Error: ..:: Failed to parse: { find: "users", filter: { acl: { $in: [ "$admin" ] } }, projection: {}, limit: "10", returnKey: false, showRecordId: false, lsid: { id: UUID("55c0ffad-968f-406e-9c7f-fcd7d1056842") }, $db: "app_db" }. 'limit' field must be numeric. ::..
+[16/04/2020 22:41:44]: Error on update user acl [anurag.cs16@iitp.ac.in]. Error: ..:: Failed to parse: { find: "users", filter: { acl: { $in: [ "$admin" ] } }, projection: {}, limit: "10", returnKey: false, showRecordId: false, lsid: { id: UUID("55c0ffad-968f-406e-9c7f-fcd7d1056842") }, $db: "app_db" }. 'limit' field must be numeric. ::..
+[16/04/2020 22:41:49]: Error on update user acl [anurag.cs16@iitp.ac.in]. Error: ..:: Failed to parse: { find: "users", filter: { acl: { $in: [ "$admin" ] } }, projection: {}, limit: "10", returnKey: false, showRecordId: false, lsid: { id: UUID("55c0ffad-968f-406e-9c7f-fcd7d1056842") }, $db: "app_db" }. 'limit' field must be numeric. ::..
+[16/04/2020 22:41:57]: Error on update user acl [anurag.cs16@iitp.ac.in]. Error: ..:: Failed to parse: { find: "users", filter: { acl: { $in: [ "$admin" ] } }, projection: {}, limit: "10", returnKey: false, showRecordId: false, lsid: { id: UUID("55c0ffad-968f-406e-9c7f-fcd7d1056842") }, $db: "app_db" }. 'limit' field must be numeric. ::..
+[16/04/2020 22:42:06]: Error on update user acl [anurag.cs16@iitp.ac.in]. Error: ..:: Failed to parse: { find: "users", filter: { acl: { $in: [ "$admin" ] } }, projection: {}, limit: "10", returnKey: false, showRecordId: false, lsid: { id: UUID("55c0ffad-968f-406e-9c7f-fcd7d1056842") }, $db: "app_db" }. 'limit' field must be numeric. ::..
+[16/04/2020 22:43:20]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[16/04/2020 22:43:20]: Loaded route: user
+[16/04/2020 22:43:20]: Loaded route: auth
+[16/04/2020 22:43:20]: Loaded route: service
+[16/04/2020 22:43:20]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[16/04/2020 22:43:20]: App listen on port 3344
+[17/04/2020 00:02:21]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 00:02:21]: Error [JsonWebTokenError: jwt malformed]
+[17/04/2020 00:11:58]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 00:11:59]: Loaded route: user
+[17/04/2020 00:11:59]: Loaded route: auth
+[17/04/2020 00:11:59]: Loaded route: service
+[17/04/2020 00:11:59]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 00:11:59]: App listen on port 3344
+[17/04/2020 00:12:34]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 00:12:34]: Loaded route: user
+[17/04/2020 00:12:34]: Loaded route: auth
+[17/04/2020 00:12:34]: Loaded route: service
+[17/04/2020 00:12:34]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 00:12:34]: App listen on port 3344
+[17/04/2020 00:13:11]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 00:13:12]: Loaded route: user
+[17/04/2020 00:13:12]: Loaded route: auth
+[17/04/2020 00:13:12]: Loaded route: service
+[17/04/2020 00:13:12]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 00:13:12]: App listen on port 3344
+[17/04/2020 01:04:09]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 01:04:10]: Loaded route: user
+[17/04/2020 01:04:10]: Loaded route: auth
+[17/04/2020 01:04:10]: Loaded route: service
+[17/04/2020 01:04:10]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 01:04:10]: App listen on port 3344
+[17/04/2020 01:06:04]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 01:06:04]: Loaded route: user
+[17/04/2020 01:06:04]: Loaded route: auth
+[17/04/2020 01:06:04]: Loaded route: service
+[17/04/2020 01:06:04]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 01:06:04]: App listen on port 3344
+[17/04/2020 01:06:14]: Error on update user acl [anurag.cs16@iitp.ac.in]. Error: ..:: Invalid status code: {
+  emailVerified: true,
+  acl: [ '$user', '$admin' ],
+  updated_at: 2020-04-14T21:28:27.771Z,
+  created_at: 2020-04-14T21:27:16.612Z,
+  _id: '26464110-236b-7c19-6a70-243059c01cea',
+  email: 'anurag.cs16@iitp.ac.in',
+  password: '$2a$10$DecIaEflzN82KWpq/w/Ib.JU22GCYAoOkWcruQrMVaZE2iyQZK65a',
+  name: 'Anurag Kumar',
+  __v: 0
+} ::..
+[17/04/2020 01:06:18]: Error on update user acl [anurag.cs16@iitp.ac.in]. Error: ..:: Invalid status code: {
+  emailVerified: true,
+  acl: [ '$user', '$admin' ],
+  updated_at: 2020-04-14T21:28:27.771Z,
+  created_at: 2020-04-14T21:27:16.612Z,
+  _id: '26464110-236b-7c19-6a70-243059c01cea',
+  email: 'anurag.cs16@iitp.ac.in',
+  password: '$2a$10$DecIaEflzN82KWpq/w/Ib.JU22GCYAoOkWcruQrMVaZE2iyQZK65a',
+  name: 'Anurag Kumar',
+  __v: 0
+} ::..
+[17/04/2020 01:06:49]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 01:06:49]: Loaded route: user
+[17/04/2020 01:06:49]: Loaded route: auth
+[17/04/2020 01:06:49]: Loaded route: service
+[17/04/2020 01:06:49]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 01:06:49]: App listen on port 3344
+[17/04/2020 01:08:10]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 01:08:10]: Loaded route: user
+[17/04/2020 01:08:10]: Loaded route: auth
+[17/04/2020 01:08:10]: Loaded route: service
+[17/04/2020 01:08:11]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 01:08:11]: App listen on port 3344
+[17/04/2020 01:47:24]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 01:47:25]: Loaded route: user
+[17/04/2020 01:47:25]: Loaded route: auth
+[17/04/2020 01:47:25]: Loaded route: service
+[17/04/2020 01:47:26]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 01:47:26]: App listen on port 3344
+[17/04/2020 01:47:56]: Error on login [Not authorized]
+[17/04/2020 01:48:01]: Error on login [Invalid credentials]
+[17/04/2020 01:48:02]: Error on login [Invalid credentials]
+[17/04/2020 01:48:08]: Error on login [Invalid credentials]
+[17/04/2020 01:48:18]: Error on login [Invalid credentials]
+[17/04/2020 01:48:31]: Error on login [Invalid credentials]
+[17/04/2020 01:48:32]: Error on login [Invalid credentials]
+[17/04/2020 01:48:33]: Error on login [Invalid credentials]
+[17/04/2020 01:48:39]: Error on login [Invalid credentials]
+[17/04/2020 01:48:43]: Error on login [Invalid credentials]
+[17/04/2020 02:02:52]: Message sent.
+[17/04/2020 02:03:22]: Error user with [undefined]. Error: ..:: User not found with this email. ::..
+[17/04/2020 02:03:37]: Error user with [undefined]. Error: ..:: User not found with this email. ::..
+[17/04/2020 02:03:57]: Message sent.
+[17/04/2020 02:16:14]: Error on login [Not authorized]
+[17/04/2020 02:16:19]: Error on login [Invalid credentials]
+[17/04/2020 02:16:24]: Error on login [Invalid credentials]
+[17/04/2020 02:16:25]: Error on login [Invalid credentials]
+[17/04/2020 02:16:25]: Error on login [Invalid credentials]
+[17/04/2020 02:16:25]: Error on login [Invalid credentials]
+[17/04/2020 02:16:25]: Error on login [Invalid credentials]
+[17/04/2020 02:16:26]: Error on login [Invalid credentials]
+[17/04/2020 02:16:26]: Error on login [Invalid credentials]
+[17/04/2020 02:16:39]: Message sent.
+[17/04/2020 02:18:41]: Error on login [Not authorized]
+[17/04/2020 02:18:42]: Error on login [Invalid credentials]
+[17/04/2020 02:18:42]: Error on login [Invalid credentials]
+[17/04/2020 02:18:42]: Error on login [Invalid credentials]
+[17/04/2020 02:18:43]: Error on login [Invalid credentials]
+[17/04/2020 02:18:43]: Error on login [Invalid credentials]
+[17/04/2020 02:18:43]: Error on login [Invalid credentials]
+[17/04/2020 02:19:41]: Error on login [Illegal arguments: undefined, string]
+[17/04/2020 02:19:50]: Error on login [Invalid credentials]
+[17/04/2020 02:20:14]: Error on login [Not authorized]
+[17/04/2020 02:21:17]: Error on login [Not authorized]
+[17/04/2020 02:21:28]: Error on login [Invalid credentials]
+[17/04/2020 02:21:30]: Error on login [Invalid credentials]
+[17/04/2020 02:21:30]: Error on login [Invalid credentials]
+[17/04/2020 02:21:30]: Error on login [Invalid credentials]
+[17/04/2020 02:21:31]: Error on login [Invalid credentials]
+[17/04/2020 02:22:07]: Error on login [Invalid credentials]
+[17/04/2020 02:22:17]: Message sent.
+[17/04/2020 02:25:12]: Message sent.
+[17/04/2020 02:31:50]: Message sent.
+[17/04/2020 02:32:36]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 02:32:36]: Error [JsonWebTokenError: jwt malformed]
+[17/04/2020 02:34:25]: Message sent.
+[17/04/2020 02:34:40]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 02:34:40]: Error [JsonWebTokenError: jwt malformed]
+[17/04/2020 02:40:53]: Logged user [anuragvnsk@gmail.com]
+[17/04/2020 02:45:20]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 02:45:21]: Loaded route: user
+[17/04/2020 02:45:21]: Loaded route: auth
+[17/04/2020 02:45:21]: Loaded route: service
+[17/04/2020 02:45:21]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 02:45:21]: App listen on port 3344
+[17/04/2020 02:45:40]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 02:45:40]: Error [JsonWebTokenError: jwt malformed]
+[17/04/2020 02:46:31]: Logged user [anuragvnsk@gmail.com]
+[17/04/2020 02:46:47]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 02:55:07]: Logged user [anuragvnsk@gmail.com]
+[17/04/2020 02:55:25]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 02:55:50]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 02:56:08]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 02:57:44]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 02:57:44]: Error [JsonWebTokenError: jwt malformed]
+[17/04/2020 02:59:16]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 02:59:16]: Error [JsonWebTokenError: jwt malformed]
+[17/04/2020 03:00:32]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 03:01:31]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 03:01:41]: Logged user [anuragvnsk@gmail.com]
+[17/04/2020 03:02:30]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 03:02:52]: Logged user [anuragvnsk@gmail.com]
+[17/04/2020 13:59:50]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 13:59:51]: Loaded route: user
+[17/04/2020 13:59:51]: Loaded route: auth
+[17/04/2020 13:59:51]: Loaded route: service
+[17/04/2020 13:59:51]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 13:59:51]: App listen on port 3344
+[17/04/2020 14:24:08]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 14:24:08]: Loaded route: user
+[17/04/2020 14:24:08]: Loaded route: auth
+[17/04/2020 14:24:08]: Loaded route: service
+[17/04/2020 14:24:08]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 14:24:08]: App listen on port 3344
+[17/04/2020 14:30:15]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 14:30:15]: Loaded route: user
+[17/04/2020 14:30:15]: Loaded route: auth
+[17/04/2020 14:30:15]: Loaded route: service
+[17/04/2020 14:30:15]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 14:30:15]: App listen on port 3344
+[17/04/2020 15:22:33]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 15:22:33]: Loaded route: user
+[17/04/2020 15:22:33]: Loaded route: auth
+[17/04/2020 15:22:33]: Loaded route: service
+[17/04/2020 15:22:33]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 15:22:33]: App listen on port 3344
+[17/04/2020 16:02:36]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 18:18:11]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 18:18:12]: Loaded route: user
+[17/04/2020 18:18:12]: Loaded route: auth
+[17/04/2020 18:18:12]: Loaded route: service
+[17/04/2020 18:18:12]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 18:18:12]: App listen on port 3344
+[17/04/2020 19:24:31]: Logged user [anuragvnsk@gmail.com]
+[17/04/2020 19:25:45]: Error on login [Not authorized]
+[17/04/2020 19:25:49]: Error on login [Invalid credentials]
+[17/04/2020 19:26:01]: Message sent.
+[17/04/2020 19:27:31]: Logged user [anuragvns1111@gmail.com]
+[17/04/2020 19:34:22]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 19:34:55]: Logged user [anuragvns1111@gmail.com]
+[17/04/2020 19:39:23]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 20:24:32]: Message sent.
+[17/04/2020 20:25:30]: Logged user [anuragvns1999@gmail.com]
+[17/04/2020 20:27:54]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 20:28:06]: Logged user [anuragvns1999@gmail.com]
+[17/04/2020 20:35:01]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 20:36:45]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 20:38:40]: Logged user [anuragvns1999@gmail.com]
+[17/04/2020 20:38:47]: Logged user [anuragvns1111@gmail.com]
+[17/04/2020 20:56:51]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 22:06:27]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 22:06:27]: Loaded route: user
+[17/04/2020 22:06:27]: Loaded route: auth
+[17/04/2020 22:06:27]: Loaded route: service
+[17/04/2020 22:06:28]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 22:06:28]: App listen on port 3344
+[17/04/2020 22:23:53]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 22:23:53]: Loaded route: user
+[17/04/2020 22:23:53]: Loaded route: auth
+[17/04/2020 22:23:53]: Loaded route: service
+[17/04/2020 22:23:53]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 22:23:53]: App listen on port 3344
+[17/04/2020 22:34:58]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 22:34:58]: Loaded route: user
+[17/04/2020 22:34:58]: Loaded route: auth
+[17/04/2020 22:34:58]: Loaded route: service
+[17/04/2020 22:35:17]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 22:35:17]: App listen on port 3344
+[17/04/2020 22:50:20]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 22:50:20]: Loaded route: user
+[17/04/2020 22:50:20]: Loaded route: auth
+[17/04/2020 22:50:20]: Loaded route: service
+[17/04/2020 22:50:20]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 22:50:20]: App listen on port 3000
+[17/04/2020 22:50:31]: Error [JsonWebTokenError: jwt malformed]
+[17/04/2020 22:50:34]: Error on logout. Error ..:: [jwt malformed] ::..
+[17/04/2020 22:50:44]: Error on login [Invalid credentials]
+[17/04/2020 22:53:10]: Message sent.
+[17/04/2020 22:53:49]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 23:00:34]: Message sent.
+[17/04/2020 23:01:18]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 23:01:18]: Loaded route: user
+[17/04/2020 23:01:18]: Loaded route: service
+[17/04/2020 23:01:18]: Loaded route: auth
+[17/04/2020 23:01:18]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 23:01:18]: App listen on port 3344
+[17/04/2020 23:03:08]: Logged user [anuragvns1111@gmail.com]
+[17/04/2020 23:03:19]: Logged user [anuragvns1111@gmail.com]
+[17/04/2020 23:04:23]: Message sent.
+[17/04/2020 23:05:08]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 23:06:05]: Logged user [anuragvns1111@gmail.com]
+[17/04/2020 23:27:51]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 23:27:51]: Loaded route: user
+[17/04/2020 23:27:51]: Loaded route: auth
+[17/04/2020 23:27:51]: Loaded route: service
+[17/04/2020 23:27:51]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 23:27:51]: App listen on port 3344
+[17/04/2020 23:28:57]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[17/04/2020 23:28:57]: Loaded route: user
+[17/04/2020 23:28:57]: Loaded route: auth
+[17/04/2020 23:28:57]: Loaded route: service
+[17/04/2020 23:28:57]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[17/04/2020 23:28:57]: App listen on port 3344
+[17/04/2020 23:57:48]: Logged user [anurag.cs16@iitp.ac.in]
+[17/04/2020 23:58:06]: Logged user [anurag.cs16@iitp.ac.in]
+[18/04/2020 00:09:24]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[18/04/2020 00:09:24]: Loaded route: user
+[18/04/2020 00:09:24]: Loaded route: auth
+[18/04/2020 00:09:24]: Loaded route: service
+[18/04/2020 00:09:24]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[18/04/2020 00:09:24]: App listen on port 3344
+[18/04/2020 00:09:51]: Error on createPass [anurag.cs16@iitp.ac.in]. Error: ..:: PassData validation failed: approverEmail: Path `approverEmail` is required., from: Path `from` is required., trolley_no: Path `trolley_no` is required., room: Path `room` is required., to: Path `to` is required., title: Path `title` is required. ::..
+[18/04/2020 00:11:15]: Error on createPass [anurag.cs16@iitp.ac.in]. Error: ..:: PassData validation failed: from: Path `from` is required., trolley_no: Path `trolley_no` is required., room: Path `room` is required., to: Path `to` is required., title: Path `title` is required. ::..
+[18/04/2020 00:12:19]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[18/04/2020 00:12:19]: Loaded route: user
+[18/04/2020 00:12:19]: Loaded route: auth
+[18/04/2020 00:12:19]: Loaded route: service
+[18/04/2020 00:12:19]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[18/04/2020 00:12:19]: App listen on port 3344
+[18/04/2020 00:28:30]: Error on createPass [anurag.cs16@iitp.ac.in]. Error: ..:: PassData validation failed: from: Path `from` is required., trolley_no: Path `trolley_no` is required., room: Path `room` is required., to: Path `to` is required., title: Path `title` is required. ::..
+[18/04/2020 00:42:33]: Error on createPass [anurag.cs16@iitp.ac.in]. Error: ..:: PassData validation failed: from: Path `from` is required., trolley_no: Path `trolley_no` is required., room: Path `room` is required., to: Path `to` is required., title: Path `title` is required. ::..
+[18/04/2020 00:42:43]: Error on createPass [anurag.cs16@iitp.ac.in]. Error: ..:: PassData validation failed: from: Path `from` is required., trolley_no: Path `trolley_no` is required., room: Path `room` is required., to: Path `to` is required., title: Path `title` is required. ::..
+[18/04/2020 00:48:33]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[18/04/2020 00:48:34]: Loaded route: user
+[18/04/2020 00:48:34]: Loaded route: auth
+[18/04/2020 00:48:34]: Loaded route: service
+[18/04/2020 00:48:34]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[18/04/2020 00:48:34]: App listen on port 3344
+[18/04/2020 00:50:16]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[18/04/2020 00:50:16]: Loaded route: user
+[18/04/2020 00:50:16]: Loaded route: auth
+[18/04/2020 00:50:16]: Loaded route: service
+[18/04/2020 00:50:16]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[18/04/2020 00:50:16]: App listen on port 3344
+[18/04/2020 00:50:22]: Error on getApprover. Error: ..:: count is not defined ::..
+[18/04/2020 00:50:24]: Error on getApprover. Error: ..:: count is not defined ::..
+[18/04/2020 00:50:27]: Error on getApprover. Error: ..:: count is not defined ::..
+[18/04/2020 00:50:30]: Error on getApprover. Error: ..:: count is not defined ::..
+[18/04/2020 00:51:31]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[18/04/2020 00:51:31]: Loaded route: user
+[18/04/2020 00:51:31]: Loaded route: auth
+[18/04/2020 00:51:31]: Loaded route: service
+[18/04/2020 00:51:31]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[18/04/2020 00:51:31]: App listen on port 3344
+[18/04/2020 01:01:32]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[18/04/2020 01:01:32]: Loaded route: user
+[18/04/2020 01:01:32]: Loaded route: auth
+[18/04/2020 01:01:32]: Loaded route: service
+[18/04/2020 01:01:32]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[18/04/2020 01:01:32]: App listen on port 3344
+[18/04/2020 01:01:38]: Error on update user acl [anurag.cs16@iitp.ac.in]. Error: ..:: reg is not defined ::..
+[18/04/2020 01:01:57]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[18/04/2020 01:01:57]: Loaded route: user
+[18/04/2020 01:01:57]: Loaded route: auth
+[18/04/2020 01:01:57]: Loaded route: service
+[18/04/2020 01:01:57]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[18/04/2020 01:01:57]: App listen on port 3344
+[18/04/2020 01:11:03]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[18/04/2020 01:11:03]: Loaded route: user
+[18/04/2020 01:11:03]: Loaded route: auth
+[18/04/2020 01:11:03]: Loaded route: service
+[18/04/2020 01:11:03]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[18/04/2020 01:11:03]: App listen on port 3344
+[18/04/2020 01:11:15]: Message sent.
+[18/04/2020 01:12:43]: Message sent.
+[18/04/2020 01:16:52]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[18/04/2020 01:16:52]: Loaded route: user
+[18/04/2020 01:16:52]: Loaded route: auth
+[18/04/2020 01:16:52]: Loaded route: service
+[18/04/2020 01:16:52]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[18/04/2020 01:16:52]: App listen on port 3344
+[18/04/2020 01:17:02]: Message sent.
+[18/04/2020 01:19:40]: Message sent.
+[18/04/2020 01:24:26]: Logged user [anurag.cs16@iitp.ac.in]
+[18/04/2020 01:29:25]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[18/04/2020 01:29:25]: Loaded route: user
+[18/04/2020 01:29:25]: Loaded route: auth
+[18/04/2020 01:29:25]: Loaded route: service
+[18/04/2020 01:29:25]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[18/04/2020 01:29:25]: App listen on port 3344
+[18/04/2020 01:30:23]: Message sent.
+[18/04/2020 01:31:20]: Error [JsonWebTokenError: jwt malformed]
+[18/04/2020 01:32:37]: Error [JsonWebTokenError: jwt malformed]
+[18/04/2020 01:33:47]: Error [JsonWebTokenError: jwt malformed]
+[18/04/2020 01:34:17]: Error [JsonWebTokenError: jwt malformed]
+[18/04/2020 01:34:21]: Error [JsonWebTokenError: jwt malformed]
+[18/04/2020 01:35:01]: Error [JsonWebTokenError: jwt malformed]
+[18/04/2020 01:35:06]: Logged user [anurag.cs16@iitp.ac.in]
+[18/04/2020 01:50:46]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[18/04/2020 01:50:46]: Loaded route: user
+[18/04/2020 01:50:46]: Loaded route: auth
+[18/04/2020 01:50:46]: Loaded route: service
+[18/04/2020 01:50:46]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[18/04/2020 01:50:46]: App listen on port 3344
+[18/04/2020 01:51:27]: Message sent.
+[18/04/2020 01:52:05]: Message sent.
+[18/04/2020 01:55:14]: Logged user [anuragvns1999@gmail.com]
+[18/04/2020 01:58:55]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[18/04/2020 01:58:55]: Loaded route: user
+[18/04/2020 01:58:55]: Loaded route: auth
+[18/04/2020 01:58:55]: Loaded route: service
+[18/04/2020 01:58:55]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[18/04/2020 01:58:55]: App listen on port 3344
+[18/04/2020 01:59:23]: Error on create user [anuragvnsk@gmail.com]. Error: ..:: User validation failed: email: anuragvnsk@gmail.com is not a valid email ::..
+[18/04/2020 02:18:26]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[18/04/2020 02:18:26]: Loaded route: user
+[18/04/2020 02:18:26]: Loaded route: auth
+[18/04/2020 02:18:26]: Loaded route: service
+[18/04/2020 02:18:26]: Database connected at mongodb://app_user:app_password@127.0.0.1:27017/app_db
+[18/04/2020 02:18:26]: App listen on port 3344
+[18/04/2020 02:51:15]: Loaded static folder: /home/anu1601cs/work/node-boilerplate/uploads
+[18/04/2020 02:51:16]: Loaded route: user
+[18/04/2020 02:51:16]: Loaded route: auth
+[18/04/2020 02:51:16]: Loaded route: service
+[18/04/2020 02:51:46]: {"name":"MongoTimeoutError","reason":{"name":"MongoNetworkError","errorLabels":["TransientTransactionError"]}}
