@@ -4,9 +4,12 @@ services:
     container_name: client
     image: client
     restart: always
+    env_file: .env
     build:
       context: .
       dockerfile: ./Docker/CLIENT/Dockerfile
+    ports:
+      - '${CLIENT_PORT}:${CLIENT_PORT}'
     links:
       - server
 
@@ -14,6 +17,7 @@ services:
     container_name: server
     image: server
     restart: always
+    env_file: .env
     build:
       context: .
       dockerfile: ./Docker/SERVER/Dockerfile
